@@ -1,0 +1,15 @@
+body{
+  background-color:black!important;
+}
+.App {
+  text-align: center;
+  color: white;
+}
+.info{
+  background-color: rgb(105, 9, 4);
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+
+}
